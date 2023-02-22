@@ -8,8 +8,8 @@
 <br>
 <div>
   <a href="https://github.com/An4lu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugao21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugao21&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugao21&show_icons=true&theme=demo&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugao21&layout=compact&langs_count=16&theme=demo"/>
 </div>
 <br>
 <br>

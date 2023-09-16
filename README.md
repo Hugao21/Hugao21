@@ -1,6 +1,4 @@
-### 
-你好👋
-
+### こんにちは
 - 🌱 Eu estou estudando Desenvolvimento de Sistemas na Etec de Cotia
 - 📫 Email: hugo.issao.matsumoto@gmail.com
 - 😄 Pronouns: Ele/Dele

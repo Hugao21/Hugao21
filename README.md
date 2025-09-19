@@ -1,6 +1,7 @@
 ### こんにちは
 - 📫 Email: hugo.issao.matsumoto@gmail.com
 - Poli - USP
+- Membro da ThundeRatz - Equipe competitiva de robótica da Poli-USP
 
 
 <br>
